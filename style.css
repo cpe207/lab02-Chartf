@@ -1,0 +1,46 @@
+h1 {
+    color: dark;
+    font-size: 100%;
+    text-align: center;
+}
+
+h2 {
+    color:darksalmon;
+    font-style: italic;
+    font-size: 120%;
+    text-align: center;;
+}
+
+h3 {
+    text-align: center; 
+    color:lightcoral;
+    font-style: italic;
+}
+
+.skill-container{
+    border: solid indianred;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    margin-bottom: 8px;
+}
+
+header {
+    color:darksalmon;
+    text-align: center;
+    font-style: italic;
+    font-size: 200%;
+}
+
+.box {
+    position: relative;
+    top: 10px;
+    left: 680px;
+}
+
+.tag {
+    position: relative;
+    top: 20px;
+    left: 650px;
+}
